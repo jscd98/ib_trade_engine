@@ -1,0 +1,6 @@
+# requirements.txt
+# -----------------
+ib_insync>=0.9.86
+pandas>=2.2
+xlwings>=0.30
+PyYAML>=6.0
